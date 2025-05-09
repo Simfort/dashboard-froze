@@ -5,13 +5,18 @@ body {
   width: 100%;
   background: radial-gradient(
     circle,
-    rgba(11, 86, 143, 0.55) 0%,
-    rgba(61, 115, 216, 0.43) 50%,
+    rgba(54, 155, 231, 0.55) 0%,
+    rgba(33, 82, 173, 0.43) 10%,
     rgba(19, 54, 230, 0.77) 100%
   );
 }
 
 h1 {
   font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 30px;
   font-weight: bold;
 }
